@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 -->
 
 # Jez McKean
-***An enthusiastic full-stack web developer, leaning towards the front-end, with a focus on the UX.***
+***Web developer, now concentrating on front-end UX/UI work, backed by 20 years of full-stack coding.***
 
-**Primarily using [Vue.js](https://github.com/vuejs)/[Nuxt.js](https://github.com/nuxt), [SCSS](https://github.com/sass)-powered styling with [Laravel](https://github.com/laravel) and other PHP frameworks.**
+*see [jezmck.com](https://blog.jezmckean.com/me/) for more.
 
-*see [jezmck.com](https://blog.jezmckean.com/me/) for more...*
+🐦 [@jezmck](https://twitter.com/jezmck)
+💼 
