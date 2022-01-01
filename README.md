@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 -->
 
 # Jez McKean
-***Web developer, now concentrating on front-end UX/UI work, backed by 20 years of full-stack coding.***
+**Web developer, now concentrating on front-end UX/UI work, backed by 20 years of full-stack coding.**
 
-*see [jezmck.com](https://blog.jezmckean.com/me/) for more.
+*see [jezmck.com](https://blog.jezmckean.com/me/) for more.*
 
 🐦 [@jezmck](https://twitter.com/jezmck)
-💼 
+
+💼 [linkedin.com/in/jezmck](https://www.linkedin.com/in/jezmck)
