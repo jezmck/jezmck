@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Jez McKean
-**Web developer, now concentrating on front-end UX/UI work, backed by 20 years of full-stack coding.**
+**Web developer, now concentrating on front-end UX/UI work, backed by 20 years of full-stack experience.**
 
 *see [jezmck.com](https://blog.jezmckean.com/me/) for more.*
 
