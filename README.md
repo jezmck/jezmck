@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 # Jez McKean
 
-<img align="right" src="https://i0.wp.com/blog.jezmck.com/wp-content/uploads/2021/12/JezMcKeanProfile512.png?resize=150%2C150&ssl=1" />
-
 **I’m a web developer, now concentrating on front-end UX/UI work, backed by 20 years of full-stack industry experience.**
 
 See [me on Threads](https://www.threads.net/@jezmck),
