@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 -->
 
 # Jez McKean
-**Web developer, now concentrating on front-end UX/UI work, backed by 20 years of full-stack experience.**
 
-*see [jezmck.com](https://blog.jezmck.com/) for more.*
+<img align="right" src="https://i0.wp.com/blog.jezmck.com/wp-content/uploads/2021/12/JezMcKeanProfile512.png?resize=150%2C150&ssl=1" />
 
-🧵 [@jezmck](https://www.threads.net/@jezmck)
+**I’m a web developer, now concentrating on front-end UX/UI work, backed by 20 years of full-stack industry experience.**
 
-🐦 [@jezmck](https://twitter.com/jezmck)
-
-💼 [linkedin.com/in/jezmck](https://www.linkedin.com/in/jezmck)
+See [me on Threads](https://www.threads.net/@jezmck),
+[my LinkedIn profile](https://www.linkedin.com/in/jezmck),
+or [jezmck.com](https://blog.jezmck.com/) for more.
