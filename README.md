@@ -22,13 +22,9 @@ Here are some ideas to get you started:
 See [my LinkedIn profile](https://www.linkedin.com/in/jezmck), or [jezmck.com](https://blog.jezmck.com/) for more.
 
 
-<xdetails>
-  <summary> 
-    <h3>Key Skills </h3>
-  </summary>
+## Key Skills
 
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26)
-  ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6)
-</details>
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6)
