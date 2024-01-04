@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 👋 I'm currently (January 2024) looking for Remote Work opportunities in the UK, or within a couple of hours of GMT.
 
-See [my LinkedIn profile](https://www.linkedin.com/in/jezmck), or [jezmck.com](https://blog.jezmck.com/) for more.
+See [my LinkedIn profile](https://www.linkedin.com/in/jezmck/), or [jezmck.com](https://jezmck.com/) for more.
 
 
 ## Key Skills
