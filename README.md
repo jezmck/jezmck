@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 **I'm a web developer, now concentrating on front-end UX/UI work, backed by 20 years of full-stack industry experience.**
 
-👋 I'm currently (January 2024) looking for Remote Work opportunities in the UK, or within a couple of hours of GMT.
+👋 I'm currently (February 2024) looking for Remote Work opportunities in the UK, or within a couple of hours of GMT.
 
 See [my LinkedIn profile](https://www.linkedin.com/in/jezmck/), or [jezmck.com](https://jezmck.com/) for more.
 
