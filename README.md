@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 # Jez McKean
 
-**I'm a web developer, now concentrating on front-end UX/UI work, backed by 20 years of full-stack industry experience.**
+**I'm a web developer, backed by 20 years of full-stack industry experience.**
 
 See [my LinkedIn profile](https://www.linkedin.com/in/jezmck/), or [jezmck.com](https://jezmck.com/) for more.
